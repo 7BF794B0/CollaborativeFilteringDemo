@@ -2,7 +2,8 @@
 Collaborative Filtering Demo on Java
 
 The cosine measure is used as a measure of similarity:
-![diagram](https://raw.githubusercontent.com/CollaborativeFilteringDemo/GFZ/master/CosineMeasure.png)
+![diagram](https://raw.githubusercontent.com/7BF794B0/CollaborativeFilteringDemo/master/CosineMeasure.png)
+
 To store the results used PostgreSQL, the results are stored in JSON format.
 ```sql
 CREATE TABLE public.person
